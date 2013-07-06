@@ -1,4 +1,5 @@
-what-are-html5-datalists-and-when-to-use-them
-=============================================
-
-What are HTML5 Datalists and When to Use Them  Read more at http://www.webappers.com/2013/06/11/what-are-html5-datalists-and-when-to-use-them/#A3GwRv09OsDXCFoi.99 
+Один из новых элементов HTML5, `datalist`, даёт нам быстрое и естественное 
+решение для вывода предложений по завершению текста, который пользователь начал 
+вводить. В статье рассказано что такое список вариантов `<datalist>`, в каких 
+случаях его использование уместно, какие у него есть ограничения и что делать с 
+браузерами, которые его не поддерживают.
